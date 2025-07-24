@@ -1,0 +1,28 @@
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.exe
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.deps.json
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.runtimeconfig.json
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.pdb
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.AssemblyInfoInputs.cache
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.AssemblyInfo.cs
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.csproj.CoreCompileInputs.cache
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\obj\Debug\net8.0\refint\ExercicioProposto2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.pdb
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.genruntimeconfig.cache
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioProposto2\ExercicioProposto2\obj\Debug\net8.0\ref\ExercicioProposto2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.exe
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.deps.json
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.runtimeconfig.json
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\bin\Debug\net8.0\ExercicioProposto2.pdb
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.AssemblyInfoInputs.cache
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.AssemblyInfo.cs
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.csproj.CoreCompileInputs.cache
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\obj\Debug\net8.0\refint\ExercicioProposto2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.pdb
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\obj\Debug\net8.0\ExercicioProposto2.genruntimeconfig.cache
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios\ExercicioProposto-2\ExercicioProposto2\obj\Debug\net8.0\ref\ExercicioProposto2.dll
